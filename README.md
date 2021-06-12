@@ -1,4 +1,11 @@
-# Neighbor Network
-Find Your Niche
+# Realtime Chat Application
 
-Our website, Neighbor Network is a platform where people can come together and talk to one other to express their beliefs on social issues within their local community. This helps the community as a whole as it gives people a chance to bring up any unknown issues. Another way the local community benefits is it improves social connections. Which helps reduce any stress and these hard times. This is different from zoom and others, as you can make specific group chats with community members and join meetings anonymously without any problems. By being in a private and anonymous meet, Neighbor Network is the most secure platform to have a meet on. Each entry will produce a different login and code which makes it safe and secure for the user.
+![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
+
+## Introduction
+This is a code repository for the corresponding video tutorial. 
+
+In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.
+
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the development server
