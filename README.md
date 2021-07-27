@@ -7,3 +7,4 @@ Our website, Neighbor Network is a platform where people can come together and t
 Credits: Tirth Nagar, Pratham Pathak, Jayprakash Pathak & Dev Patel.
 
 Note** To find the server/client source code visit https://github.com/jayprakash07.
+Devpost: https://devpost.com/software/neighbor-network
