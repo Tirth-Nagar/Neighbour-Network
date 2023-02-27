@@ -6,7 +6,9 @@ Our website, Neighbor Network is a platform where people can come together and t
 
 Credits: Tirth Nagar, Jayprakash Pathak, Pratham Pathak & Dev Patel.
 
-Note** To find the server/client source code for video-chat-app visit https://github.com/jayprakash07.
+Client-Side Code for Video Chat App: https://github.com/jayprakash07/NeighborNetworkClient
+
+Server-Side Code for Video Chat App: https://github.com/jayprakash07/NeighborNetworkServer
 
 Devpost: https://devpost.com/software/neighbor-network
 
